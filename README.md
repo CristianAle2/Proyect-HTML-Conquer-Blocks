@@ -38,6 +38,7 @@ aprendidos en el _Máster de Desarrollo Full-Stack de Conquer Blocks_ y cómo es
 ├── assets/
 │   └── img/
 └── README.md
+```
 
 ---
 
