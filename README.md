@@ -31,16 +31,13 @@ aprendidos en el _Máster de Desarrollo Full-Stack de Conquer Blocks_ y cómo es
 
 ## Estructura del proyecto
 
+```
 /
-|
-|--index.html
-|
-|--pages\
-|
-|--assets\
-|  |--img\
-|
-|--README.md
+├── index.html
+├── pages/
+├── assets/
+│   └── img/
+└── README.md
 
 ---
 
