@@ -35,8 +35,18 @@ aprendidos en el _Máster de Desarrollo Full-Stack de Conquer Blocks_ y cómo es
 /
 ├── index.html
 ├── pages/
+│   ├──quienes-somos.html
+│   ├──cursos.html
+│   ├──blog.html
+│   ├──registro.html
+│   ├──login.html
+│   ├──contacto.html
+│   └──aviso-legal.html
 ├── assets/
 │   └── img/
+│       ├──conquer-logo.avif
+│       ├──conquer-logo.png
+│       └──conquer-logo.webp
 └── README.md
 ```
 
