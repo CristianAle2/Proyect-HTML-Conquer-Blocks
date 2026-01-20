@@ -35,6 +35,11 @@ aprendidos en el _Máster de Desarrollo Full-Stack de Conquer Blocks_ y cómo es
 /
 ├── index.html
 ├── pages/
+│   ├── courses/
+│   │   ├── blockchain.html
+│   │   ├── cyber-security.html
+│   │   ├── data-sciense.html
+│   │   └── programacion-fullstack.html
 │   ├── quienes-somos.html
 │   ├── cursos.html
 │   ├── blog.html
@@ -45,7 +50,8 @@ aprendidos en el _Máster de Desarrollo Full-Stack de Conquer Blocks_ y cómo es
 ├── assets/
 │   └── img/
 │       ├── about-page/     #Imágenes de la página Quiénes somos
-│       └── index-page/     #Imágenes de la página Home     -Logo de la empresa en la carpeta assets/img/index-page/
+│       ├── index-page/     #Imágenes de la página Home     -Logo de la empresa en la carpeta assets/img/index-page/
+│       └── courses-page/   #Imágenes de la página Cursos
 └── README.md
 ```
 
