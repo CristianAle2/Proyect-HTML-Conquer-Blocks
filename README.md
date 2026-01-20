@@ -35,18 +35,17 @@ aprendidos en el _Máster de Desarrollo Full-Stack de Conquer Blocks_ y cómo es
 /
 ├── index.html
 ├── pages/
-│   ├──quienes-somos.html
-│   ├──cursos.html
-│   ├──blog.html
-│   ├──registro.html
-│   ├──login.html
-│   ├──contacto.html
-│   └──aviso-legal.html
+│   ├── quienes-somos.html
+│   ├── cursos.html
+│   ├── blog.html
+│   ├── registro.html
+│   ├── login.html
+│   ├── contacto.html
+│   └── aviso-legal.html
 ├── assets/
 │   └── img/
-│       ├──conquer-logo.avif
-│       ├──conquer-logo.png
-│       └──conquer-logo.webp
+│       ├── about-page/     #Imágenes de la página Quiénes somos
+│       └── index-page/     #Imágenes de la página Home     -Logo de la empresa en la carpeta assets/img/index-page/
 └── README.md
 ```
 
