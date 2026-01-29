@@ -45,6 +45,7 @@ aprendidos en el _Máster de Desarrollo Full-Stack de Conquer Blocks_ y cómo es
 │   │   ├── cyber-security.html
 │   │   ├── data-sciense.html
 │   │   └── programacion-fullstack.html
+│   ├── confirmación.html   #En un entorno real, el formulario enviaría los datos a un endpoint del servidor. En este             │   │                       #proyecto, la acción se simula redirigiendo a una página de confirmación.
 │   ├── quienes-somos.html
 │   ├── cursos.html
 │   ├── blog.html
