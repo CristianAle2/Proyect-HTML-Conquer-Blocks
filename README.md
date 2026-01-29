@@ -41,8 +41,9 @@ aprendidos en el _Máster de Desarrollo Full-Stack de Conquer Blocks_ y cómo es
 │   │   ├── nuevas-tecnologias.html
 │   │   └── por-que-programar.html
 │   ├── forms/
-│   │   ├── confirmación.html   #En un entorno real, el formulario enviaría los datos a un endpoint del servidor. En              │   │   │                       #este proyecto, la acción se simula redirigiendo a una página de confirmación.
-│   │   └── iniciar-sesion.html #El formulario de login es demostrativo. En un entorno real, los datos se enviarían a un servicio │   │                           #de autenticación en el servidor.
+│   │   ├── confirmacion.html
+│   │   ├── contacto.html
+│   │   └── iniciar-sesion.html
 │   ├── courses/
 │   │   ├── blockchain.html
 │   │   ├── cyber-security.html
@@ -63,6 +64,15 @@ aprendidos en el _Máster de Desarrollo Full-Stack de Conquer Blocks_ y cómo es
 │       └── courses-page/   #Imágenes de la página Cursos
 └── README.md
 ```
+
+### Formularios y envío de datos
+
+Los formularios presentes en el sitio tienen un propósito demostrativo.  
+El archivo `confirmacion.html`, `contacto.html` y `iniciar-sesion.html` representa la respuesta visual que recibiría el usuario luego de enviar un mensaje.
+
+En un entorno real, los datos del formulario se enviarían a un backend (por ejemplo, un endpoint o script del servidor), donde serían procesados y almacenados. Posteriormente, el servidor se encargaría de redirigir al usuario a una página de confirmación o mostrar un mensaje de éxito o error.
+
+En este proyecto, al tratarse de un sitio estático desarrollado únicamente con HTML, se simula este comportamiento mediante la redirección a una página de confirmación.
 
 ---
 
