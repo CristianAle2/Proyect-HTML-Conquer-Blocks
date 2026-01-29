@@ -40,12 +40,14 @@ aprendidos en el _Máster de Desarrollo Full-Stack de Conquer Blocks_ y cómo es
 │   │   ├── mercado-laboral.html
 │   │   ├── nuevas-tecnologias.html
 │   │   └── por-que-programar.html
+│   ├── forms/
+│   │   ├── confirmación.html   #En un entorno real, el formulario enviaría los datos a un endpoint del servidor. En              │   │   │                       #este proyecto, la acción se simula redirigiendo a una página de confirmación.
+│   │   └── iniciar-sesion.html #El formulario de login es demostrativo. En un entorno real, los datos se enviarían a un servicio │   │                           #de autenticación en el servidor.
 │   ├── courses/
 │   │   ├── blockchain.html
 │   │   ├── cyber-security.html
 │   │   ├── data-sciense.html
 │   │   └── programacion-fullstack.html
-│   ├── confirmación.html   #En un entorno real, el formulario enviaría los datos a un endpoint del servidor. En este             │   │                       #proyecto, la acción se simula redirigiendo a una página de confirmación.
 │   ├── quienes-somos.html
 │   ├── cursos.html
 │   ├── blog.html
