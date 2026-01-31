@@ -78,7 +78,7 @@ En este proyecto, al tratarse de un sitio estático desarrollado únicamente con
 
 ## Estado del proyecto
 
-Proyecto en desarrollo.
+Proyecto finalizado.
 
 ---
 
